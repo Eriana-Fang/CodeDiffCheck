@@ -7,3 +7,6 @@ def methodTimes(a, b):
 def methodMinus(a, b):
 	# minus
 	return a-b
+
+def methodDividedBy(a, b):
+	return int(a/b)
